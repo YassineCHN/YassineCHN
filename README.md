@@ -103,7 +103,7 @@ I am currently looking for a **6-month internship starting March 2026** as a **D
 
 ---
 
-## Professional Experience
+## 💼 Professional Experience
 
 | Role | Company | Period | Key Responsibilities |
 |------|---------|--------|----------------------|
