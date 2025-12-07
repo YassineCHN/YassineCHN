@@ -22,7 +22,7 @@
 
 I am a Data Science master’s student specializing in **Data Engineering and Machine Learning**, with a strong interest in building reliable data pipelines, transforming raw data into actionable insights, and deploying scalable analytics solutions.
 
-Driven by problem-solving and technical challenges, I enjoy working across the full data lifecycle: data collection, processing, modeling, and deployment. My recent experiences has strengthened my skills in data processing, monitoring, automation, and dashboarding in real operational environments.
+Driven by problem-solving and technical challenges, I enjoy working across the full data lifecycle: data collection, processing, modeling, and deployment. My recent experiences have strengthened my skills in data processing, monitoring, automation, and dashboarding in real operational environments.
 
 I am currently looking for a **6-month internship starting March 2026** as a **Data Engineer** or **Data Scientist**, where I can contribute to real-world data projects while deepening my expertise in modern data stacks.
 
