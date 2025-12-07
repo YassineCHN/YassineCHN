@@ -91,10 +91,15 @@ I am currently looking for a **6-month internship starting March 2026** as a **D
 
 | Project | Description | Tech Stack |
 |---------|-------------|-------------|
-| **[ETL Pipeline – Talend to MySQL](#)** | Built a full ETL workflow to extract, transform and load heterogeneous data into a MySQL database. Focus on automation, data validation and transformation logic. | Talend, MySQL |
-| **[SNCF API – Data Extraction & Processing](#)** | Collected and processed real-time public transport data through SNCF APIs, with structured storage and transformation for analysis. | Python, API, JSON, Data Processing |
-| **[Marketing Campaign ML Model](#)** | Developed a machine learning model to predict campaign performance. Deployed an inference API using FastAPI and Render for online access. | Python, Scikit-learn, FastAPI, Render |
-| **[COVID-19 Power BI Dashboard](#)** | Created an interactive dashboard to explore and visualize COVID-19 trends, KPIs, and regional patterns using public datasets. | Power BI |
+| **[SISE_ENEDIS](https://github.com/YassineCHN/SISE_Enedis/tree/main)** | End-to-end ML pipeline with automatic data extraction from the ADEME API, preprocessing, and training models to predict DPE class (A–G) and energy consumption. Delivered as a full web app (Streamlit + FastAPI) and deployed in Docker with model/data sync via Hugging Face and hosting on Koyeb. | Python, Scikit-learn, FastAPI, Streamlit, Docker |
+| **[R Package for Variable Clustering](https://github.com/YassineCHN/SISE_CLUSTVAR_PACKAGE)** | Developed an R package implementing advanced quantitative & qualitative variable clustering (K-Means, VarClus, MCA-HAC), with visualizations and a full Shiny application for interactive exploration. Includes 200+ unit tests and multiple built-in datasets. | R, R6, Shiny |
+| **[Dataiku Workshop ](https://github.com/YassineCHN/atelier_dataiku/)** | Built a complete learning pipeline on Dataiku Cloud: ETL workflows, credit-scoring models, fraud-detection (XGBoost) on imbalanced data, automated pipelines, model interpretability, and deployment of a prediction API. | Dataiku |
+| **[Power BI – COVID-19 Dashboard](#)** | Designed an interactive dashboard exploring COVID-19 indicators, trends, and KPIs using public datasets. | Power BI |
+| **[MLOps Workflow – Docker, Airflow & Streamlit](#)** | Created an end-to-end MLOps pipeline with containerization, workflow orchestration, and a deployed Streamlit interface. | Docker, Airflow, Streamlit |
+| **[Dataiku Workshop Project](#)** | Built data workflows, transformations, and ML components in the Dataiku environment as part of a hands-on workshop. | Dataiku |
+| **[Java Application](#)** | Developed a functional Java application demonstrating object-oriented programming, data structures, and clean architecture. | Java |
+| **[SNCF API – Data Extraction](#)** | Collected and processed real-time public transport data through SNCF APIs for analysis and storage. | Python, API, JSON |
+| **[Django Python Application](#)** | Created a full-stack Django web application with backend logic, templates, and data persistence. | Python, Django |
 
 ---
 
