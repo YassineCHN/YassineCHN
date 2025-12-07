@@ -69,4 +69,16 @@ I am currently looking for a **6-month internship starting March 2026** as a **D
 | **Junior Data Engineer**<br><sub>(Monitoring & Data Processing)</sub> | Enedis (DSI) | Apr 2024 – Sep 2025 | - Worked in an Agile workflow (Kanban, ticketing) <br>- Processed and analyzed data using **Python, Kafka** & **Elasticsearch**<br>- Versioning development tools with **Git**, **GitLab**, **Jenkins** across VMs<br>- Built and optimized workflows on the **Teradata** data warehouse<br>- Executed advanced SQL queries for extraction and validation<br>- Developed log-processing pipelines for application monitoring<br>- Created dashboards using **Grafana** and **Power BI** |
 | **HR & Payroll Assistant** | Vinci Facilities | 2023 | - Processed payroll and HR data with accuracy<br>- Managed administrative workflows for HR operations<br>- Ensured data consistency and compliance |
 
+## 🎓 Education
+
+**Master 2 – Statistics & Computer Science for Data Science (SISE)**  
+📍 Université Lumière Lyon 2 | 2025–2026
+
+
+**Master 1 – Advanced Information Systems (Systèmes d’Information Avancés — SIA)**  
+📍 IAE Lyon | 2024–2025
+
+
+**Bachelor in International Management**  
+📍 IAE Angers | 2021–2023
 
