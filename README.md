@@ -108,7 +108,7 @@ I am currently looking for a **6-month internship starting March 2026** as a **D
 | Role | Company | Period | Key Responsibilities |
 |------|---------|--------|----------------------|
 | **Junior Data Engineer**<br><sub>(Monitoring & Data Processing)</sub> | Enedis (DSI) | Apr 2024 – Sep 2025 | - Worked in an Agile workflow (Kanban, ticketing) <br>- Data processing with **Python, Kafka** & **Elasticsearch**<br>- Versioning & development with **GitLab** & **Jenkins** across VMs<br>- Built workflows on the **Teradata** data warehouse<br>- Advanced SQL queries for extraction and validation<br>- Log-processing pipelines for application monitoring<br>- Created dashboards using **Grafana** and **Power BI** |
-| **HR & Payroll Assistant** | Vinci Facilities | 2023 | - Processed payroll and HR data with accuracy<br>- Managed administrative workflows for HR operations<br>- Ensured data consistency and compliance |
+| **HR & Payroll Assistant** | Vinci Facilities | Apr -June 2022 | - Processed payroll and HR data with accuracy<br>- Managed administrative workflows for HR operations<br>- Ensured data consistency and compliance |
 
 ---
 
