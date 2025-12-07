@@ -28,38 +28,78 @@ I am currently looking for a **6-month internship starting March 2026** as a **D
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### 🧑‍💻 Programming Languages
-[![Languages](https://skillicons.dev/icons?i=python,sql,r,java,bash)](https://skillicons.dev)
+<div>
+  <img src="icon/python.svg" title="Python" width="40" height="40"/>&nbsp;
+  <img src="icon/sql.svg" title="SQL" width="40" height="40"/>&nbsp;
+  <img src="icon/java.svg" title="Java" width="40" height="40"/>&nbsp;
+  <img src="icon/r.svg" title="R" width="40" height="40"/>&nbsp;
+</div>
 
+**Other:** Shell Linux, Bash, CMD
+
+---
 
 ### ⚙️ Data Engineering & Big Data
-[![Data Engineering](https://skillicons.dev/icons?i=airflow,kafka,spark,hadoop,snowflake,dbt,grafana)](https://skillicons.dev)
+<div>
+  <img src="icon/airflow.svg" title="Apache Airflow" width="40" height="40"/>&nbsp;
+  <img src="icon/kafka.svg" title="Apache Kafka" width="40" height="40"/>&nbsp;
+  <img src="icon/spark.svg" title="Apache Spark" width="40" height="40"/>&nbsp;
+  <img src="icon/dbt.svg" title="dbt" width="40" height="40"/>&nbsp;
+  <img src="icon/grafana.svg" title="Grafana" width="40" height="40"/>&nbsp;
+  <img src="icon/dataiku.svg" title="Dataiku" width="40" height="40"/>&nbsp;
+</div>
 
-**Other tools:** Talend, Apache Hop, Apache NiFi, Apache Doris, Dataiku
+**Other:** Talend, Apache Hop, Apache Doris, Apache NiFi
 
+---
 
 ### ☁️ Cloud & MLOps
-[![Cloud & MLOps](https://skillicons.dev/icons?i=docker,kubernetes,mlflow,git,azure)](https://skillicons.dev)
+<div>
+  <img src="icon/docker.svg" title="Docker" width="40" height="40"/>&nbsp;
+  <img src="icon/kubernetes.svg" title="Kubernetes" width="40" height="40"/>&nbsp;
+  <img src="icon/git.svg" title="Git" width="40" height="40"/>&nbsp;
+  <img src="icon/azure.svg" title="Microsoft Azure" width="40" height="40"/>&nbsp;
+  <img src="icon/mlflow.svg" title="MLflow" width="40" height="40"/>&nbsp;
+</div>
 
+---
 
 ### 📦 Databases & Storage
-[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis)](https://skillicons.dev)
+<div>
+  <img src="icon/postgres.svg" title="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="icon/mysql.svg" title="MySQL" width="40" height="40"/>&nbsp;
+  <img src="icon/teradata.svg" title="Teradata" width="40" height="40"/>&nbsp;
+  <img src="icon/mongodb.svg" title="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="icon/elasticsearch.svg" title="Elasticsearch" width="40" height="40"/>&nbsp;
+</div>
 
-**Other databases:** SQL Server, Teradata, Elasticsearch
+**Other:** Redis, SQL Server
 
+---
 
 ### 🤖 Machine Learning & AI
-[![Machine Learning](https://skillicons.dev/icons?i=py,tensorflow,pytorch)](https://skillicons.dev)
+<div>
+  <img src="icon/python.svg" title="Python" width="40" height="40"/>&nbsp;
+  <img src="icon/tensorflow.svg" title="TensorFlow" width="40" height="40"/>&nbsp;
+  <img src="icon/pytorch.svg" title="PyTorch" width="40" height="40"/>&nbsp;
+</div>
 
-**Core libraries:** NumPy, Pandas, Scikit-learn
+**Libraries:** Pandas, NumPy, Scikit-learn
 
+---
 
 ### 📊 BI & Visualization
-[![BI](https://skillicons.dev/icons?i=powerbi,tableau,streamlit)](https://skillicons.dev)
+<div>
+  <img src="icon/powerbi.svg" title="Power BI" width="40" height="40"/>&nbsp;
+  <img src="icon/tableau.svg" title="Tableau" width="40" height="40"/>&nbsp;
+  <img src="icon/qlik.svg" title="Qlik" width="40" height="40"/>&nbsp;
+  <img src="icon/fastapi.svg" title="FastAPI" width="40" height="40"/>&nbsp;
+  <img src="icon/streamlit.svg" title="Streamlit" width="40" height="40"/>&nbsp;
+</div>
 
-**Other tools:** Qlik, Dash, Shiny, FastAPI
 
 ---
 
