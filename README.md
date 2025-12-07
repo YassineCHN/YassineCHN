@@ -16,6 +16,8 @@
   </a>
 </p>
 
+---
+
 ## About Me
 
 I am a Data Science master’s student specializing in **Data Engineering and Machine Learning**, with a strong interest in building reliable data pipelines, transforming raw data into actionable insights, and deploying scalable analytics solutions.
@@ -24,43 +26,42 @@ Driven by problem-solving and technical challenges, I enjoy working across the f
 
 I am currently looking for a **6-month internship starting March 2026** as a **Data Engineer** or **Data Scientist**, where I can contribute to real-world data projects while deepening my expertise in modern data stacks.
 
+---
+
 ## Tech Stack
 
 ### 🧑‍💻 Programming Languages
 [![Languages](https://skillicons.dev/icons?i=python,sql,r,java,bash)](https://skillicons.dev)
 
----
 
 ### ⚙️ Data Engineering & Big Data
 [![Data Engineering](https://skillicons.dev/icons?i=airflow,kafka,spark,hadoop,snowflake,dbt,grafana)](https://skillicons.dev)
 
 **Other tools:** Talend, Apache Hop, Apache NiFi, Apache Doris, Dataiku
 
----
 
 ### ☁️ Cloud & MLOps
 [![Cloud & MLOps](https://skillicons.dev/icons?i=docker,kubernetes,mlflow,git,azure)](https://skillicons.dev)
 
----
 
 ### 📦 Databases & Storage
 [![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis)](https://skillicons.dev)
 
 **Other databases:** SQL Server, Teradata, Elasticsearch
 
----
 
 ### 🤖 Machine Learning & AI
 [![Machine Learning](https://skillicons.dev/icons?i=py,tensorflow,pytorch)](https://skillicons.dev)
 
 **Core libraries:** NumPy, Pandas, Scikit-learn
 
----
 
 ### 📊 BI & Visualization
 [![BI](https://skillicons.dev/icons?i=powerbi,tableau,streamlit)](https://skillicons.dev)
 
 **Other tools:** Qlik, Dash, Shiny, FastAPI
+
+---
 
 ## Professional Experience
 
@@ -68,6 +69,8 @@ I am currently looking for a **6-month internship starting March 2026** as a **D
 |------|---------|--------|----------------------|
 | **Junior Data Engineer**<br><sub>(Monitoring & Data Processing)</sub> | Enedis (DSI) | Apr 2024 – Sep 2025 | - Worked in an Agile workflow (Kanban, ticketing) <br>- Processed and analyzed data using **Python, Kafka** & **Elasticsearch**<br>- Versioning development tools with **Git**, **GitLab**, **Jenkins** across VMs<br>- Built and optimized workflows on the **Teradata** data warehouse<br>- Executed advanced SQL queries for extraction and validation<br>- Developed log-processing pipelines for application monitoring<br>- Created dashboards using **Grafana** and **Power BI** |
 | **HR & Payroll Assistant** | Vinci Facilities | 2023 | - Processed payroll and HR data with accuracy<br>- Managed administrative workflows for HR operations<br>- Ensured data consistency and compliance |
+
+---
 
 ## 🎓 Education
 
@@ -81,4 +84,31 @@ I am currently looking for a **6-month internship starting March 2026** as a **D
 
 **Bachelor in International Management**  
 📍 IAE Angers | 2021–2023
+
+--- 
+
+## 🚀 Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|-------------|
+| **[ETL Pipeline – Talend to MySQL](#)** | Built a full ETL workflow to extract, transform and load heterogeneous data into a MySQL database. Focus on automation, data validation and transformation logic. | Talend, MySQL |
+| **[SNCF API – Data Extraction & Processing](#)** | Collected and processed real-time public transport data through SNCF APIs, with structured storage and transformation for analysis. | Python, API, JSON, Data Processing |
+| **[Marketing Campaign ML Model](#)** | Developed a machine learning model to predict campaign performance. Deployed an inference API using FastAPI and Render for online access. | Python, Scikit-learn, FastAPI, Render |
+| **[COVID-19 Power BI Dashboard](#)** | Created an interactive dashboard to explore and visualize COVID-19 trends, KPIs, and regional patterns using public datasets. | Power BI |
+
+---
+
+## 📬 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yassine-cheniour-01yc">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:y.cheniour@outlook.fr">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/YassineCHN">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
