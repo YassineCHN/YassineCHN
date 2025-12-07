@@ -122,7 +122,7 @@ I am currently looking for a **6-month internship starting March 2026** as a **D
 📍 IAE Lyon | 2024–2025
 
 
-**Bachelor in International Management**  
+**Bachelor’s in Economics & International Management**  
 📍 IAE Angers | 2021–2023
 
 --- 
