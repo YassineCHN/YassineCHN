@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Yassine Cheniour 👋</h1>
 
 <h3 align="center">
-  Master’s Student in Data Science | Data Engineer / Data Scientist 
+  Data Engineer / Data Scientist 
 </h3>
 
 <p align="center">
